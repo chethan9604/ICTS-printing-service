@@ -18,3 +18,5 @@ The department has the provision of five printers to print five different files 
 ![alt text](https://github.com/chethan9604/ICTS-printing-service/blob/2d09e1528b23b5a884c5c146c08c8b556b9fcf9c/screenshot/clericalstaff.jpg)
 # RequestPrinter
 ![alt text](https://github.com/chethan9604/ICTS-printing-service/blob/b08646bef65650e86939831908eee84aa4452091/screenshot/requstprinter.jpg)
+# Printerinfo
+![alt text](https://github.com/chethan9604/ICTS-printing-service/blob/106d07cfe5ac4259ea70421b9005473b1112ede7/screenshot/printerdetails.jpg)
