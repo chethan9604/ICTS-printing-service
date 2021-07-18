@@ -20,3 +20,5 @@ The department has the provision of five printers to print five different files 
 ![alt text](https://github.com/chethan9604/ICTS-printing-service/blob/b08646bef65650e86939831908eee84aa4452091/screenshot/requstprinter.jpg)
 # Printerinfo
 ![alt text](https://github.com/chethan9604/ICTS-printing-service/blob/106d07cfe5ac4259ea70421b9005473b1112ede7/screenshot/printerdetails.jpg)
+# Deliverypage
+![alt text](https://github.com/chethan9604/ICTS-printing-service/blob/dd2fcc981723cfb53609c05db3f455b971866705/screenshot/deliverydetails.jpg)
